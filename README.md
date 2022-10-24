@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CRMGCHILL
 - 👀 I’m interested in figuring out how to add a Cognigy Chatbot to my Wordpress Website. 
-- 🌱 I’m currently learning
+- 🌱 I have never edited or created a webpage before so this is interesting!
 - 💞️ 
 - 📫 How to reach me ...chill@crmgllc.us
 
